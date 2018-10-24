@@ -46,53 +46,51 @@ Kotlin multiplatform I/O library
 
 Modern I/O library. Multiplatform in progress.
 
-## Videos
-
-### KotlinConf
+## Videos - KotlinConf
 
 **Multiplatform and Native specific**
 
-#### [Conference Opening Keynote by Andrey Breslav](https://www.youtube.com/watch?v=PsaFVLr8t4E)
+### [Conference Opening Keynote by Andrey Breslav](https://www.youtube.com/watch?v=PsaFVLr8t4E)
 
 Important notes about native and discussion of the "Saner Concurrency" future.
 
-#### [Kotlin/Native Concurrency Model by Nikolay Igotti](https://www.youtube.com/watch?v=nw6YTfEyfO0)
+### [Kotlin/Native Concurrency Model by Nikolay Igotti](https://www.youtube.com/watch?v=nw6YTfEyfO0)
 
 About state and threading in Kotlin/Native. You must understand this stuff to be productive
 with Native.
 
-#### [A Multiplatform Delight by Jake Wharton and Alec Strong](https://www.youtube.com/watch?v=WkIry790PHI)
+### [A Multiplatform Delight by Jake Wharton and Alec Strong](https://www.youtube.com/watch?v=WkIry790PHI)
 
 SqlDelight, multiplatform.
 
-#### [iOS Architecture with Multiplatform by Kevin Galligan](https://www.youtube.com/watch?v=Dul17VSiejo)
+### [iOS Architecture with Multiplatform by Kevin Galligan](https://www.youtube.com/watch?v=Dul17VSiejo)
 
 My video. About the current state of the ecosystem.
 
-#### [Making Noise with Kotlin Native by Josh Skeen](https://www.youtube.com/watch?v=vc04QKnryKs)
+### [Making Noise with Kotlin Native by Josh Skeen](https://www.youtube.com/watch?v=vc04QKnryKs)
 
 Life with Kotlin/Native
 
-#### [Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk)
+### [Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk)
 
 More Kotlin/Native samples.
 
-#### [Effective Multiplatform Kotlin Development by Marcin Moskala](https://www.youtube.com/watch?v=UyTBXEZ983g)
+### [Effective Multiplatform Kotlin Development by Marcin Moskala](https://www.youtube.com/watch?v=UyTBXEZ983g)
 
 I think this is a bit more about JVM+JS. Library list needs a refresh. Good talk, though.
 
 **General but useful**
 
-#### [Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
+### [Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 
 We're waiting on multithreaded coroutines, but this kind of stuff will be super important
 once that's available.
 
-#### [Writing Your First Kotlin Compiler Plugin by Kevin Most](https://www.youtube.com/watch?v=w-GMlaziIyo)
+### [Writing Your First Kotlin Compiler Plugin by Kevin Most](https://www.youtube.com/watch?v=w-GMlaziIyo)
 
 API isn't public yet, but this will be very important for library dev.
 
-#### [Dissecting the stdlib by Huyen Tue Dao](https://www.youtube.com/watch?v=Fzt_9I733Yg)
+### [Dissecting the stdlib by Huyen Tue Dao](https://www.youtube.com/watch?v=Fzt_9I733Yg)
 
 Understanding stdlib, without JVM, will be pretty important.
 
