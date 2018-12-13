@@ -6,20 +6,22 @@
 
 Client/Server networking
 
-### [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+### [Kotlinx.Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 
 Support library for coroutines. Native are single-threaded only, so kind of a
 waiting situation.
 
+### [Kotlinx.Serialization](https://github.com/Kotlin/kotlinx.serialization)
+
+Kotlin cross-platform / multi-format reflectionless serialization
+
 ### [SqlDelight](https://github.com/square/sqldelight/)
 
-Multiplatform SQLite model facilitation library. DIY iOS support available.
-Official coming soon.
+Multiplatform SQLite model facilitation library.
 
-### [Knarch.db](https://github.com/touchlab/knarch.db)
+### [SQLiter](https://github.com/touchlab/SQLiter)
 
-SQLite access library with Android-like structure and interface. Pair with
-SqlDelight for shared mobile sql [See Droidcon app](https://github.com/touchlab/DroidconKotlin/)
+Lightly opinionated Sqlite access driver.
 
 ### [Multiplatform Settings](https://github.com/russhwolf/multiplatform-settings)
 
@@ -28,15 +30,7 @@ data storage for mobile.
 
 ### [Stately](https://github.com/touchlab/Stately)
 
-State and threading facilitation library for Multiplatform. Not public yet...
-
-### [Atomic-fu](https://github.com/Kotlin/kotlinx.atomicfu)
-
-Atomic helper. Native in progress.
-
-### [Timber](https://github.com/JakeWharton/timber)
-
-Multithreaded logging. In progress.
+State and threading facilitation library for Multiplatform.
 
 ### [kotlinx.io](https://github.com/Kotlin/kotlinx-io)
 
@@ -45,6 +39,11 @@ Kotlin multiplatform I/O library
 ### [OKIO2](https://github.com/square/okio)
 
 Modern I/O library. Multiplatform in progress.
+
+### [Knarch.db](https://github.com/touchlab/knarch.db)
+
+(Deprecated-ish. See SQLiter) SQLite access library with Android-like structure and interface. Pair with
+SqlDelight for shared mobile sql [See Droidcon app](https://github.com/touchlab/DroidconKotlin/)
 
 ## Videos - KotlinConf
 
