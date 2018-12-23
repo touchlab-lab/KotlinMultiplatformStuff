@@ -45,6 +45,22 @@ Modern I/O library. Multiplatform in progress.
 (Deprecated-ish. See SQLiter) SQLite access library with Android-like structure and interface. Pair with
 SqlDelight for shared mobile sql [See Droidcon app](https://github.com/touchlab/DroidconKotlin/)
 
+### [Kotlin-Multiplatform-Firebase](https://github.com/RubyLichtenstein/Kotlin-Multiplatform-Firebase)
+
+Kotlin Multiplatform - Android/iOS/Web/Node.Js(FIrebase).
+
+### [kotlin-libui](https://github.com/msink/kotlin-libui)
+
+Kotlin/Native interop to libui: a portable GUI library.
+
+### [klock](https://github.com/korlibs/klock)
+
+Date and time library for Multiplatform Kotlin 1.3
+
+### [korma](https://github.com/korlibs/korma)
+
+PortableMathematic library for Kotlin (JVM, JS, Native and Common).
+
 ## Videos - KotlinConf
 
 **Multiplatform and Native specific**
